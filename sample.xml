@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobs>
+    <job>
+        <job_title>Software Engineer</job_title>
+        <company_name>Tech Solutions</company_name>
+        <category>Information Technology</category>
+        <city>San Francisco</city>
+    </job>
+    <job>
+        <job_title>Data Analyst</job_title>
+        <company_name>Data Insights</company_name>
+        <category>Data Science</category>
+        <city>New York</city>
+    </job>
+
+</jobs>

@@ -1,0 +1,16 @@
+{
+    "certifications": [
+        {
+            "courses": "Python Programming",
+            "name": "Python Developer"
+        },
+        {
+            "courses": "Data Science",
+            "name": "Data Scientist"
+        },
+        {
+            "courses": "Web Development",
+            "name": "Web Developer"
+        }
+    ]
+}
